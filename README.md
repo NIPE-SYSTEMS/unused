@@ -1,4 +1,4 @@
-# unused by NIPE-SYSTEMS
+# unused
 
 This header file defines a simple macro to remove *unused parameter*-compiler-warnings. Use this macro with care: only disable compiler warnings if really needed.
 
